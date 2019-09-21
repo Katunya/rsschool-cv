@@ -1,2 +1,1 @@
-# rsschool-cv
-https://katunya.github.io/rsschool-cv/cv
+[CV](https://katunya.github.io/rsschool-cv/cv)
