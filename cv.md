@@ -21,12 +21,13 @@ ___
 
 ### `Experience`
 ___
-+ ПрофСофт UI Engineer (December 2018– July 2019) 
++ `December 2018– July 2019` ** ПрофСофт UI Engineer **
 
 ### `Education`
 ___
-+ Saratov State Technical University(2016 – 2020) Bachelor’s in Computer Science and Engineering in Institute of Information and Communication Technologies 
++ `2016 – 2020` Saratov State Technical University 
+Bachelor’s in Computer Science and Engineering in Institute of Information and Communication Technologies 
 
 ### `English`
 ___
-+ **B1 (Pre-Intermediate English).** I studied English in university and I took English courses at GoEnglish school for 5 months in 2018.
++ **B1 (Pre-Intermediate English).** 
