@@ -21,7 +21,7 @@ ___
 
 ### `Experience`
 ___
-+ `December 2018– July 2019` ** ПрофСофт UI Engineer **
++ `December 2018– July 2019` **ПрофСофт UI Engineer**
 
 ### `Education`
 ___
